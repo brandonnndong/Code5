@@ -1,0 +1,5 @@
+/* Quang Minh Dong 1001760280 */
+char *PhraseBank[] = {"I Feel Amazing","Don't go Over There", "You Didn't Have to do That",
+                 "That's Just Groddy", "Please I Want to Go Home", "Don't do that to me",
+				 "(That) Really (Hurt)", "Good o' Times",
+				 "I Enjoyed Our Time Today", "I Think it's Time to go Home", ""};
